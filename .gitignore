@@ -1,0 +1,21 @@
+# JPEG
+*.jpg
+*.jpeg
+
+# Portable Network Graphics
+*.png
+
+# OpenEXR
+*.exr
+
+# JavaScript Objects
+*.json
+
+# Mars Directory
+*mars*/
+
+# Converted Directory
+*converted*/
+
+# SOL Directory
+*SOL*/
